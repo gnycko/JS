@@ -1,0 +1,112 @@
+[
+    {
+        "id":     1,
+        "titulo": "CPU Ryzen 5 5600XT",
+        "categoria": "procesador",
+        "marca": "AMD",
+        "descripcion": "N.° de núcleos de CPU 6. N.° de subprocesos 12. N.° de núcleos de GPU 7. Reloj base 3.9GHz. Reloj de aumento máx. Hasta 4.4GHz. Caché L2 total 3MB. Caché L3 total 16MB. Desbloqueados Sí. CMOS TSMC 7nm FinFET. Paquete AM4. Versión de PCI Express PCIe® 3.0. Solución térmica Wraith Stealth. TDP/TDP predeterminado 65W. cTDP 45-65W. Temp. máx. 95°C. Velocidad máxima de memoria Up to 3200MHz. Tipo de memoria DDR4. Canales de memoria 2.",
+        "imgURL": "/assets/img/procesadores/cpu1.jpg",
+        "precio": 342
+    },
+    {
+        "id":     2,
+        "titulo": "Intel Dualcore G5905 Comet Lake",
+        "categoria": "procesador",
+        "marca": "Intel",
+        "descripcion": "Especificaciones de la CPU .Cantidad de núcleos 2. Cantidad de subprocesos 2. Frecuencia básica del procesador 3,50 GHz. Caché4 MB Intel® Smart Cache. Velocidad del bus 8 GT/s. TDP 58 W. Especificaciones de memoria. Tamaño de memoria máximo (depende del tipo de memoria)128 GB. Tipos de memoriaDDR4-2666. Cantidad máxima de canales de memoria 2. Máximo de ancho de banda de memoria 41.6 GB/s. Gráficos de procesador. Gráficos del procesador ‡Gráficos UHD Intel® 610. Frecuencia de base de gráficos 350 MHz. Frecuencia dinámica máxima de gráficos 1.05 GHz.",        
+        "imgURL": "/assets/img/procesadores/cpu2.jpg",
+        "precio": 300
+    },
+    {
+        "id":     3,
+        "titulo": "AMD Ryzen 9 5900X AM4",
+        "categoria": "procesador",
+        "marca": "AMD",
+        "descripcion": "# de núcleos de CPU 12. # de hilos 24. Reloj base 3.7GHz. Reloj de aumento máx. Hasta 4.8GHz. Caché L2 total 6MB. Caché L3 total 64MB. Desbloqueados Sí. CMOS TSMC 7nm FinFET. Package AM4. Versión de PCI Express PCIe 4.0. Solución térmica (PIB) Wraith Stealth. TDP/TDP predeterminado 105W. Velocidad máxima de memoria Up to 3200MHz. Tipo de memoria DDR4.",        
+        "imgURL": "/assets/img/procesadores/cpu3.jpg",
+        "precio": 550
+    },
+    {
+        "id":     4,
+        "titulo": "CPU Intel Core i5 13400 Raptor Lake 1700",
+        "categoria": "procesador",
+        "marca": "Intel",
+        "descripcion": "Núcleos totales 4. N.º de núcleos de rendimiento 4. Subprocesos totales 8. Frecuencia turbo máxima 4,50 GHz. Frecuencia turbo máxima de núcleo de rendimiento 4,50 GHz. Frecuencia base de núcleo de rendimiento 3,40 GHz. CacheCaché inteligente Intel® de 12 MB. Caché L2 total 5 MB. Potencia base del procesador 58W. Máxima potencia turbo 89W. Gráficos del procesador ‡ Gráficos UHD Intel® 730. Frecuencia de base de gráficos 300 MHz. Frecuencia dinámica máxima de gráficos 1.50 GHz.",        
+        "imgURL": "/assets/img/procesadores/cpu4.jpg",
+        "precio": 367
+    },
+    {
+        "id":     5,
+        "titulo": "Intel Pentium Gold G6400 10ma 1200",
+        "categoria": "procesador",
+        "marca": "Intel",
+        "descripcion": "Los nuevos procesadores Intel® Core™ de 10? generación ofrecen mejoras de rendimiento notables para conseguir una productividad mejorada y un entretenimiento impresionante, incluyendo hasta 5,3 GHz, Intel® Wi-Fi 6 (Gig+), tecnología Thunderbolt™ 3, HDR 4K, optimización de sistema inteligente y mucho más.",        
+        "imgURL": "/assets/img/procesadores/cpu5.jpg",
+        "precio": 90
+    },
+    {
+        "id":     6,
+        "titulo": "Intel Core i5-12600K (unlocked)",
+        "categoria": "procesador",
+        "marca": "Intel",
+        "descripcion": "Especificaciones de la CPU. Núcleos totales 10. N.º de núcleos de rendimiento6. # de núcleos eficientes4. Subprocesos totales dieciséis. Frecuencia turbo máxima 4,90 GHz. Frecuencia turbo máxima de núcleo de rendimiento 4,90 GHz. Frecuencia turbo máxima de núcleo eficiente 3,60 GHz. Frecuencia base de núcleo de rendimiento3,70 GHz. Frecuencia base de núcleo eficiente2,80 GHz. Cache Caché inteligente Intel® de 20 MB. Caché L2 total9,5 MB. Potencia base del procesador 125W. Máxima potencia turbo 150W.",
+        "imgURL": "/assets/img/procesadores/cpu6.jpg",
+        "precio": 193
+    },
+    {
+        "id":     7,
+        "titulo": "CPU INTEL Core I7-12700K Unlocked",
+        "categoria": "procesador",
+        "marca": "Intel",
+        "descripcion": "Especificaciones de la CPU. Cantidad de núcleos 12. # of Performance-cores 8. # of Efficient-cores 4. Cantidad de subprocesos 20. Frecuencia turbo máxima 5.00 GHz. Frecuencia de la Tecnología Intel® Turbo Boost Max 3.0 ‡ 5.00 GHz. Performance-core Max Turbo Frequency 4.90 GHz. Efficient-core Max Turbo Frequency 3.80 GHz. Performance-core Base Frequency 3.60 GHz. Efficient-core Base Frequency 2.70 GHz. Caché 25 MB Intel® Smart Cache. Total L2 Cache 12 MB. Processor Base Power 125 W. Maximum Turbo Power 190 W.",        
+        "imgURL": "/assets/img/procesadores/cpu7.jpg",
+        "precio": 347
+    },
+    {
+        "id":     8,
+        "titulo": "CPU Intel Core i9-11900K Rocket Lake 1200",
+        "categoria": "procesador",
+        "marca": "Intel",
+        "descripcion": "Cantidad de núcleos 8. Cantidad de subprocesos 16. Frecuencia básica del procesador 3,50 GHz. Frecuencia turbo máxima 5,30 GHz. Frecuencia de Intel® Thermal Velocity Boost 5.30 GHz. Caché 16 MB Intel® Smart Cache. Velocidad del bus 8 GT/s. Frecuencia de la Tecnología Intel® Turbo Boost Max 3.0 ‡ 5,20 GHz. Frecuencia de la Tecnología Intel® Turbo Boost 2.0‡ 5.10 GHz. TDP 125 W. Frecuencia de descenso de TDP configurable 3.00 GHz. Descenso de TDP configurable 95 W.",        
+        "imgURL": "/assets/img/procesadores/cpu8.jpg",
+        "precio": 650
+    },
+    {
+        "id":     9,
+        "titulo": "CPU Intel Core i9 13900K Raptor Lake 1700",
+        "categoria": "procesador",
+        "marca": "Intel",
+        "descripcion": "Número de procesador i9-13900K. Especificaciones de la CPU. Núcleos totales 24. N.º de núcleos de rendimiento 8. # de núcleos eficientes 16. Subprocesos totales 32. Frecuencia turbo máxima 5,80 GHz. Frecuencia de aumento de velocidad térmica de Intel® 5,80 GHz. Tecnología Intel® Turbo Boost Max 3.0 Frecuencia ‡ 5,70 GHz. Frecuencia turbo máxima de núcleo de rendimiento 5,40 GHz. Frecuencia turbo máxima de núcleo eficiente 4,30 GHz. Frecuencia base de núcleo de rendimiento 3,00 GHz. Frecuencia base de núcleo eficiente 2,20 GHz. Caché inteligente Intel® de 36 MB. Caché L2 total 32 MB. Potencia base del procesador 125W.Máxima potencia turbo 253W",
+        "imgURL": "/assets/img/procesadores/cpu9.jpg",
+        "precio": 925
+    },
+    {
+        "id":     10,
+        "titulo": "NUEVO AMD Ryzen 9 7900X AM5",
+        "categoria": "procesador",
+        "marca": "AMD",
+        "descripcion": "Línea de productos AMD Ryzen™ 9 Processors. N.° de núcleos de CPU 12. N.° de subprocesos 24. Reloj de aumento máx. Hasta 5.4GHz. Reloj base 3.7GHz. Caché L1 total 768KB. Caché L2 total 12MB. Caché L3 total 64MB. TDP/TDP predeterminado 65W. Processor Technology for CPU Cores TSMC 5nm FinFET. Desbloqueados Sí. Paquete AM5. Solución térmica AMD Wraith Prism.Temp. máx. 95°C",
+        "imgURL": "/assets/img/procesadores/cpu10.jpg",
+        "precio": 740
+    },
+    {
+        "id":     11,
+        "titulo": "CPU AMD Ryzen 9 7950X3D AM5",
+        "categoria": "procesador",
+        "marca": "AMD",
+        "descripcion": "Familia de productos AMD Ryzen™ Processors. Línea de productos AMD Ryzen™ 9 Processors. N.° de núcleos de CPU 16. N.° de subprocesos 32. Reloj de aumento máx. Hasta 5.7GHz. Reloj base 4.2GHz. Caché L1 total 1MB. Caché L2 total 16MB. Caché L3 total 128MB. TDP/TDP predeterminado 120W. Processor Technology for CPU Cores TSMC 5nm FinFET .Paquete AM5. Solución térmica Not Included. Temp. máx. 89°C",
+        "imgURL": "/assets/img/procesadores/cpu11.jpg",
+        "precio": 1100
+    },
+    {
+        "id":     12,
+        "titulo": "AMD Athlon II X2 250 Regor 3.0 GHz ",
+        "categoria": "procesador",
+        "marca": "AMD",
+        "descripcion": "AMD Athlon II X2 250 3.0 GHz 2 x 1 MB Socket AM3 Dual-Core CPU General Features: AMD Athlon II X2 250 Dual-Core processor 3.0 GHz CPU speed 2 x 128 KB L1 cache 2 x 1 MB L2 cache Socket AM3 45 nm SOI (silicon-on-insulator) processor technology 65W thermal design power True Multi-Core design Cool'n'Quiet 3.0 technology AMD64 with Direct Connect Architecture",
+        "imgURL": "/assets/img/procesadores/cpu12.jpg",
+        "precio": 24
+    }
+
+    
+]
